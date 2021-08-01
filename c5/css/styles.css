@@ -1,0 +1,15 @@
+/* CSSは後から書いたものが優先される */
+/* モバイルファースト */
+
+/* COMMON */
+/* small screen */
+
+/* medium screen */
+@media (min-width:600PX){
+
+}
+
+/* large screen */
+@media (min-width:800px){
+
+}
